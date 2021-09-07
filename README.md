@@ -26,4 +26,4 @@ If this hypothesis held true, Udacity could improve the overall student experien
 who are likely to complete the course.
 
 ## Reference:
-Udacity Course A/B Testing at the following link <https://classroom.udacity.com/courses/ud257/>
+Udacity course "A/B Testing" at the following link <https://classroom.udacity.com/courses/ud257/>
