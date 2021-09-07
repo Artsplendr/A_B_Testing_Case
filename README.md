@@ -1,5 +1,5 @@
-##Overview
-This repository is created to share implemention of A/B Testing with Free Trial Screener at Udacity web-site.  
+## Overview
+This repository is created to share implemention of A/B Testing with Free Trial Screener for Udacity online educational paltform.  
 This test is done in the frame of the "A/B Testing" course at Udacity.
 
 At the time of this experiment, Udacity courses had two options on the home page: "start free trial", and "access course materials". 
@@ -25,5 +25,5 @@ to continue past the free trial and eventually complete the course.
 If this hypothesis held true, Udacity could improve the overall student experience and improve coaches' capacity to support students 
 who are likely to complete the course.
 
-##Reference:
-Udacity Course A/B Testing at the following link
+## Reference:
+Udacity Course A/B Testing at the following link <https://classroom.udacity.com/courses/ud257/>
